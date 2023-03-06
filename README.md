@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kk4zu
+- 👋 Hi, I’m Kasper
 - 👀 I’m interested in ... programming/anything electrical/FUN FUN FUN
 - 🌱 I’m currently learning c# / HTML5/CSS/javascript/how to backend
 - 💞️ I’m looking to collaborate on ... HELP
